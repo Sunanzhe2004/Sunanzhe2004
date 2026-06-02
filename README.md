@@ -42,6 +42,10 @@ I am currently a **master's student in Computer Science and Technology at Southe
 - [**shushu-internship-resume-optimizer**](https://github.com/Sunanzhe2004/shushu-internship-resume-optimizer): A practical project for improving internship resume content and presentation through structured optimization workflows.
 - [**dense-physical-map-code**](https://github.com/Sunanzhe2004/dense-physical-map-code): Benchmark-oriented code for dense physical map prediction and evaluation, with an emphasis on reproducibility and research workflow organization.
 
+## Competition
+
+- [**MABe Challenge - Social Action Recognition in Mice**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection): A Kaggle research competition on detecting social behaviors in mice from pose estimates. Ranked **138 / 1412** teams.
+
 ## Contact
 
 - GitHub: [@Sunanzhe2004](https://github.com/Sunanzhe2004)
