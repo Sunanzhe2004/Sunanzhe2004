@@ -45,6 +45,7 @@ I am currently a **master's student in Computer Science and Technology at Southe
 ## Competition
 
 - [MABe Challenge - Social Action Recognition in Mice](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection): A Kaggle research competition on detecting social behaviors in mice from pose estimates, where we built single-mouse and pairwise interaction features from pose sequences and combined **XGBoost**, **CatBoost**, and **LightGBM** in an ensemble pipeline with threshold and weight optimization. Achieved a **Bronze Medal**, ranking **138 / 1412** teams.
+- Complex logical reasoning evaluation: Built a lightweight LLM adaptation pipeline with **LoRA**, majority-voting ensembling, and **vLLM**-based inference acceleration, improving accuracy from **0.72** to **0.885** and ranking **8 / 2815**.
 
 ## Contact
 
