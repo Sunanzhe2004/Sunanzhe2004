@@ -38,23 +38,6 @@ I am currently a **master's student in Computer Science and Technology at Southe
 | [shushu-internship-resume-optimizer](https://github.com/Sunanzhe2004/shushu-internship-resume-optimizer) | A practical project for improving internship resume content and presentation through structured optimization workflows. |
 | [dense-physical-map-code](https://github.com/Sunanzhe2004/dense-physical-map-code) | Benchmark-oriented code for dense physical map prediction and evaluation, with an emphasis on reproducibility and research workflow organization. |
 
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Sunanzhe2004">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sunanzhe2004&show_icons=true&hide_border=true&title_color=0f172a&icon_color=0f766e&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
-</a>
-<a href="https://github.com/Sunanzhe2004?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunanzhe2004&layout=compact&hide_border=true&title_color=0f172a&text_color=334155&bg_color=ffffff" alt="Top languages" />
-</a>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunanzhe2004&bg_color=ffffff&color=0f172a&line=0f766e&point=14b8a6&area=true&area_color=ccfbf1&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-</div>
-
 ## Contact
 
 - GitHub: [@Sunanzhe2004](https://github.com/Sunanzhe2004)
