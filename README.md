@@ -34,7 +34,7 @@ I am currently a **master's student in Computer Science and Technology at Southe
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,matlab,r,mysql,git,linux,docker,bash&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,pytorch,cpp,matlab,r,mysql,git,linux,docker,bash&perline=7" alt="Tech stack" />
 </div>
 
 ## Selected Projects
