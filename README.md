@@ -31,6 +31,12 @@ I am currently a **master's student in Computer Science and Technology at Southe
 - Embodied AI / embodied intelligence
 - Reproducible research workflows
 
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,git,linux,docker,bash&perline=7" alt="Tech stack" />
+</div>
+
 ## Selected Projects
 
 | Project | Description |
