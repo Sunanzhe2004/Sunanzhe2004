@@ -29,7 +29,7 @@ I am currently a **master's student in Computer Science and Technology at Southe
 - Agent design and agent systems
 - Agent evaluation and benchmarking
 - Embodied AI / embodied intelligence
-- Reproducible research workflows
+- VLM-based 3D reconstruction
 
 ## Tech Stack
 
