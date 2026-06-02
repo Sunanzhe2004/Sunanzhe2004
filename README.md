@@ -19,17 +19,17 @@
 
 ## About Me
 
-我目前是 **南方科技大学计算机科学与技术专业的硕士研究生**，研究兴趣主要集中在 Agentic RL、Agent design、Agent evaluation 和具身智能。除了研究方向外，我也很重视研究代码的可复现性、评测体系设计和工程化落地。
+我目前是 **南方科技大学计算机科学与技术专业的硕士研究生**，研究兴趣主要集中在智能体强化学习（Agentic RL）、智能体设计（Agent design）、智能体评测（Agent evaluation）和具身智能。除了研究方向外，我也很重视研究代码的可复现性、评测体系设计和工程化落地。
 
 I am currently a **master's student in Computer Science and Technology at Southern University of Science and Technology (SUSTech)**. My primary interests are Agentic RL, agent design, agent evaluation, and embodied AI, with a strong emphasis on reproducible research workflows and evaluation-oriented engineering.
 
 ## Focus
 
-- Agentic Reinforcement Learning
-- Agent design and agent systems
-- Agent evaluation and benchmarking
-- Embodied AI / embodied intelligence
-- Reproducible research workflows
+- 智能体强化学习（Agentic Reinforcement Learning）
+- 智能体设计与智能体系统（Agent design and agent systems）
+- 智能体评测与基准设计（Agent evaluation and benchmarking）
+- 具身智能（Embodied AI / embodied intelligence）
+- 可复现研究工作流（Reproducible research workflows）
 
 ## Tech Stack
 
