@@ -39,10 +39,8 @@ I am currently a **master's student in Computer Science and Technology at Southe
 
 ## Selected Projects
 
-| Project | Description |
-|---|---|
-| [shushu-internship-resume-optimizer](https://github.com/Sunanzhe2004/shushu-internship-resume-optimizer) | A practical project for improving internship resume content and presentation through structured optimization workflows. |
-| [dense-physical-map-code](https://github.com/Sunanzhe2004/dense-physical-map-code) | Benchmark-oriented code for dense physical map prediction and evaluation, with an emphasis on reproducibility and research workflow organization. |
+- [**shushu-internship-resume-optimizer**](https://github.com/Sunanzhe2004/shushu-internship-resume-optimizer): A practical project for improving internship resume content and presentation through structured optimization workflows.
+- [**dense-physical-map-code**](https://github.com/Sunanzhe2004/dense-physical-map-code): Benchmark-oriented code for dense physical map prediction and evaluation, with an emphasis on reproducibility and research workflow organization.
 
 ## Contact
 
