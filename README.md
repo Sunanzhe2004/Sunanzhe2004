@@ -6,9 +6,9 @@
 
 <p>
   <a href="https://github.com/Sunanzhe2004">
-    <img src="https://img.shields.io/github/followers/Sunanzhe2004?label=Followers&style=for-the-badge&labelColor=334155&color=0f766e" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Sunanzhe2004?label=Followers&style=for-the-badge&labelColor=334155&color=0f766e&cacheSeconds=3600" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/github/stars/Sunanzhe2004?label=Stars&style=for-the-badge&labelColor=334155&color=2563eb" alt="GitHub user stars" />
+  <img src="https://img.shields.io/github/stars/Sunanzhe2004?label=Stars&style=for-the-badge&labelColor=334155&color=2563eb&cacheSeconds=3600" alt="GitHub user stars" />
 </p>
 
 `Agent Systems` `Reinforcement Learning` `Embodied AI` `Evaluation`
